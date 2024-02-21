@@ -16,7 +16,7 @@ int main() {
         sum += array[i];
     }
    
-    double average =sum / size;
+     average =sum / size;
     printf("Average of the array: %.2lf\n", average);
 
 }
